@@ -1,0 +1,67 @@
+﻿@model IEnumerable<News.Models.Document>
+
+@{
+    ViewBag.Title = "新闻列表";
+}
+<style>
+    table, table tr th, table tr td {
+        border: 2px solid #0094ff;
+    }
+
+    table {
+        width: 200px;
+
+    } 
+</style>
+
+<h2>新闻列表</h2>
+
+<p>
+    @Html.ActionLink("创建新闻", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.News_BiaoTi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.News_LeiBie)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.News_NeiRong)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.News_BiaoTi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.News_LeiBie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.News_NeiRong)
+        </td>
+        <td>
+            @Html.ActionLink("编辑新闻", "Edit", new { id=item.ID }) <br />
+            @Html.ActionLink("查看新闻", "Details", new { id=item.ID }) <br />
+            @Html.ActionLink("删除新闻", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

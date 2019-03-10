@@ -1,0 +1,846 @@
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\News.dll.config
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\News.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\News.pdb
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Antlr3.Runtime.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.AspNet.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.Core.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OAuth.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OpenId.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\EntityFramework.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Data.Edm.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Data.OData.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Newtonsoft.Json.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Net.Http.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Net.Http.Formatting.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Net.Http.WebRequest.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Spatial.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Helpers.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Http.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Http.OData.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Http.WebHost.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Mvc.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Optimization.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Razor.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.WebPages.Deployment.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.WebPages.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.WebPages.Razor.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\WebGrease.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\WebMatrix.Data.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\WebMatrix.WebData.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\EntityFramework.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Newtonsoft.Json.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Net.Http.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Net.Http.Formatting.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Net.Http.WebRequest.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Helpers.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Http.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Http.WebHost.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Mvc.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Razor.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.WebPages.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.WebPages.Deployment.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.WebPages.Razor.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\WebMatrix.Data.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\WebMatrix.WebData.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.AspNet.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.Core.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OAuth.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OpenId.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Web.Http.OData.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Data.Edm.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\Microsoft.Data.OData.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\System.Spatial.xml
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\EntityFramework.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Net.Http.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Http.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Razor.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\de\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\es\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\fr\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\it\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ja\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ko\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\ru\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2013\Projects\News\News\obj\Debug\News.dll
+c:\users\tina\documents\visual studio 2013\Projects\News\News\obj\Debug\News.pdb
+C:\Users\qqw\Desktop\News\News\bin\News.dll.config
+C:\Users\qqw\Desktop\News\News\bin\News.dll
+C:\Users\qqw\Desktop\News\News\bin\News.pdb
+C:\Users\qqw\Desktop\News\News\bin\Antlr3.Runtime.dll
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\qqw\Desktop\News\News\bin\EntityFramework.dll
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Data.Edm.dll
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Data.OData.dll
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\qqw\Desktop\News\News\bin\Newtonsoft.Json.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Net.Http.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Spatial.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Helpers.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Http.OData.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Mvc.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Optimization.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Razor.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.WebPages.dll
+C:\Users\qqw\Desktop\News\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\qqw\Desktop\News\News\bin\WebGrease.dll
+C:\Users\qqw\Desktop\News\News\bin\WebMatrix.Data.dll
+C:\Users\qqw\Desktop\News\News\bin\WebMatrix.WebData.dll
+C:\Users\qqw\Desktop\News\News\bin\EntityFramework.xml
+C:\Users\qqw\Desktop\News\News\bin\Newtonsoft.Json.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Net.Http.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Helpers.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Mvc.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Razor.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.WebPages.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\qqw\Desktop\News\News\bin\WebMatrix.Data.xml
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\qqw\Desktop\News\News\bin\WebMatrix.WebData.xml
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\qqw\Desktop\News\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Web.Http.OData.xml
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Data.Edm.xml
+C:\Users\qqw\Desktop\News\News\bin\Microsoft.Data.OData.xml
+C:\Users\qqw\Desktop\News\News\bin\System.Spatial.xml
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\de\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\es\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\fr\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\it\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ja\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ko\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\ru\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\qqw\Desktop\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+C:\Users\qqw\Desktop\News\News\obj\Debug\News.dll
+C:\Users\qqw\Desktop\News\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\News12.25\News\bin\News.dll.config
+C:\Users\Tina\Desktop\News12.25\News\bin\News.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\News.pdb
+C:\Users\Tina\Desktop\News12.25\News\bin\Antlr3.Runtime.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\EntityFramework.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Data.Edm.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Data.OData.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\Newtonsoft.Json.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Net.Http.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Net.Http.Formatting.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Spatial.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Helpers.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Http.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Http.OData.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Http.WebHost.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Mvc.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Optimization.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Razor.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.WebPages.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\WebGrease.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\WebMatrix.Data.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\WebMatrix.WebData.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\EntityFramework.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\Newtonsoft.Json.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Net.Http.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Net.Http.Formatting.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Helpers.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Http.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Http.WebHost.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Mvc.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Razor.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.WebPages.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\WebMatrix.Data.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\WebMatrix.WebData.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Web.Http.OData.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Data.Edm.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\Microsoft.Data.OData.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\System.Spatial.xml
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\de\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\es\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\fr\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\it\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ja\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ko\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\ru\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.25\News\obj\Debug\News.dll
+C:\Users\Tina\Desktop\News12.25\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\News.dll.config
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\News.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\News.pdb
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Antlr3.Runtime.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\EntityFramework.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Data.Edm.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Data.OData.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Newtonsoft.Json.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Net.Http.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Net.Http.Formatting.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Spatial.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Helpers.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Http.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Http.OData.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Http.WebHost.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Mvc.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Optimization.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Razor.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.WebPages.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\WebGrease.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\WebMatrix.Data.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\WebMatrix.WebData.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\EntityFramework.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Newtonsoft.Json.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Net.Http.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Net.Http.Formatting.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Helpers.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Http.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Http.WebHost.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Mvc.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Razor.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.WebPages.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\WebMatrix.Data.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\WebMatrix.WebData.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Web.Http.OData.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Data.Edm.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\Microsoft.Data.OData.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\System.Spatial.xml
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\de\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\es\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\fr\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\it\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ja\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ko\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\ru\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\News12.26\News12.26\News\obj\Debug\News.dll
+C:\Users\Tina\Desktop\News12.26\News12.26\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\News.dll.config
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\News.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\News.pdb
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Antlr3.Runtime.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\EntityFramework.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Data.Edm.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Data.OData.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Newtonsoft.Json.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Net.Http.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Net.Http.Formatting.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Spatial.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Helpers.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Http.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Http.OData.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Http.WebHost.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Mvc.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Optimization.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Razor.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.WebPages.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\WebGrease.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\WebMatrix.Data.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\WebMatrix.WebData.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\EntityFramework.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Newtonsoft.Json.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Net.Http.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Net.Http.Formatting.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Helpers.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Http.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Http.WebHost.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Mvc.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Razor.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.WebPages.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\WebMatrix.Data.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\WebMatrix.WebData.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Web.Http.OData.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Data.Edm.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\Microsoft.Data.OData.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\System.Spatial.xml
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\de\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\es\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\fr\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\it\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ja\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ko\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\ru\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\obj\Debug\News.dll
+C:\Users\Tina\Desktop\News12.28\News12.28\News12.26\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\News.dll.config
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\News.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\News.pdb
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Antlr3.Runtime.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\EntityFramework.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Data.Edm.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Data.OData.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Newtonsoft.Json.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Net.Http.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Net.Http.Formatting.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Spatial.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Helpers.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Http.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Http.OData.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Http.WebHost.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Mvc.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Optimization.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Razor.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.WebPages.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\WebGrease.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\WebMatrix.Data.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\WebMatrix.WebData.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\EntityFramework.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Newtonsoft.Json.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Net.Http.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Net.Http.Formatting.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Helpers.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Http.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Http.WebHost.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Mvc.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Razor.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.WebPages.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\WebMatrix.Data.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\WebMatrix.WebData.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Web.Http.OData.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Data.Edm.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\Microsoft.Data.OData.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\System.Spatial.xml
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\de\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\es\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\fr\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\it\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ja\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ko\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\ru\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\obj\Debug\News.dll
+C:\Users\Tina\Desktop\News12.30\News12.28\News12.26\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\News 1.1\News\bin\News.dll.config
+C:\Users\Tina\Desktop\News 1.1\News\bin\News.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\News.pdb
+C:\Users\Tina\Desktop\News 1.1\News\bin\Antlr3.Runtime.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\EntityFramework.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Data.Edm.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Data.OData.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\Newtonsoft.Json.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Net.Http.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Net.Http.Formatting.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Spatial.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Helpers.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Http.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Http.OData.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Http.WebHost.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Mvc.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Optimization.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Razor.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.WebPages.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\WebGrease.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\WebMatrix.Data.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\WebMatrix.WebData.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\EntityFramework.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\Newtonsoft.Json.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Net.Http.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Net.Http.Formatting.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Helpers.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Http.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Http.WebHost.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Mvc.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Razor.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.WebPages.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\WebMatrix.Data.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\WebMatrix.WebData.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Web.Http.OData.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Data.Edm.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\Microsoft.Data.OData.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\System.Spatial.xml
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\de\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\es\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\fr\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\it\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ja\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ko\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\ru\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\News 1.1\News\obj\Debug\News.dll
+C:\Users\Tina\Desktop\News 1.1\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\News.dll.config
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\News.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\News.pdb
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Antlr3.Runtime.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\EntityFramework.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Data.Edm.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Data.OData.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Newtonsoft.Json.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Net.Http.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Net.Http.Formatting.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Net.Http.WebRequest.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Spatial.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Helpers.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Http.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Http.OData.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Http.WebHost.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Mvc.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Optimization.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Razor.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.WebPages.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\WebGrease.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\WebMatrix.Data.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\WebMatrix.WebData.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\EntityFramework.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Newtonsoft.Json.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Net.Http.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Net.Http.Formatting.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Net.Http.WebRequest.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Helpers.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Http.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Http.WebHost.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Mvc.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Razor.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.WebPages.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\WebMatrix.Data.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\WebMatrix.WebData.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Web.Http.OData.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Data.Edm.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\Microsoft.Data.OData.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\System.Spatial.xml
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\de\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\es\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\fr\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\it\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ja\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ko\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\ru\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\obj\Debug\News.dll
+C:\Users\Tina\Desktop\新闻门户网站\News 1.1\News\obj\Debug\News.pdb
+C:\Users\Tina\Desktop\News 1.1\News\obj\Debug\News.csprojResolveAssemblyReference.cache

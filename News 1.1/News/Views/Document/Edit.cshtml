@@ -1,0 +1,102 @@
+﻿@model News.Models.Document
+
+@{
+    ViewBag.Title = "新闻编辑页面";
+}
+
+<h2>新闻编辑页面</h2>
+<style>
+    .editor-label {
+        border: 2px solid #0094ff;
+        background-color: pink;
+        font-size: 24px;
+        font-weight: bold;
+        font-family: inherit;
+    }
+    .editor-field
+    {
+        background-color:yellow;
+    }
+    
+</style>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Document</legend>
+
+        @Html.HiddenFor(model => model.ID)
+        <table>
+            <tr>
+                <td class="editor-label">
+                    @Html.LabelFor(model => model.Name)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-field">
+                    @Html.EditorFor(model => model.Name)
+                    @Html.ValidationMessageFor(model => model.Name)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-label">
+                    @Html.LabelFor(model => model.Time)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-field">
+                    @Html.EditorFor(model => model.Time)
+                    @Html.ValidationMessageFor(model => model.Time)
+                </td>
+            </tr>
+            <tr>
+
+                <td class="editor-label">
+                    @Html.LabelFor(model => model.News_BiaoTi)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-field">
+                    @Html.EditorFor(model => model.News_BiaoTi)
+                    @Html.ValidationMessageFor(model => model.News_BiaoTi)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-label">
+                    @Html.LabelFor(model => model.News_LeiBie)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-field">
+                    @Html.EditorFor(model => model.News_LeiBie)
+                    @Html.ValidationMessageFor(model => model.News_LeiBie)
+                </td>
+            </tr>
+            <tr>
+
+                <td class="editor-label">
+                    @Html.LabelFor(model => model.News_NeiRong)
+                </td>
+            </tr>
+            <tr>
+                <td class="editor-field">
+                    @Html.EditorFor(model => model.News_NeiRong)
+                    @Html.ValidationMessageFor(model => model.News_NeiRong)
+                </td>
+            </tr>
+        </table>
+        <p>
+            <input type="submit" value="保存" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("回到新闻列表", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

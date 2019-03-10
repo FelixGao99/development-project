@@ -1,0 +1,88 @@
+﻿@model News.Models.Document
+
+@{
+    ViewBag.Title = "查看新闻页面";
+}
+
+<h2>查看新闻页面</h2>
+
+<style>
+    table
+    {
+        width:33%;
+        height:300px;
+    }
+    .display-label {
+        border: 2px solid #0094ff;
+        background-color: pink;
+        font-size: 24px;
+        font-weight: bold;
+        font-family: inherit;
+    }
+
+    .display-field {
+        background-color: yellow;
+    }
+</style>
+
+
+
+<fieldset>
+    <legend>Document</legend>
+    <table>
+        <tr >
+            <td class="display-label">
+                @Html.DisplayNameFor(model => model.Name)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-field">
+                @Html.DisplayFor(model => model.Name)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-label">
+                @Html.DisplayNameFor(model => model.Time)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-field">
+                @Html.DisplayFor(model => model.Time)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-label">
+                @Html.DisplayNameFor(model => model.News_BiaoTi)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-field">
+                @Html.DisplayFor(model => model.News_BiaoTi)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-label">
+                @Html.DisplayNameFor(model => model.News_LeiBie)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-field">
+                @Html.DisplayFor(model => model.News_LeiBie)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-label">
+                @Html.DisplayNameFor(model => model.News_NeiRong)
+            </td>
+        </tr>
+        <tr>
+            <td class="display-field">
+                @Html.DisplayFor(model => model.News_NeiRong)
+            </td>
+        </tr>
+    </table>
+</fieldset>
+<p>
+    @Html.ActionLink("编辑新闻", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("回到新闻列表", "Index")
+</p>

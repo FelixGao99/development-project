@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+        <meta http-equiv="refresh" content="60">
+        <style>
+            header
+            {
+                background-color:bisque;
+            }
+            .float-left
+            {
+                margin-left:0px;
+                font-size:15px;
+                margin-bottom:0px;
+            }
+           
+        </style>
+    </head>
+    <body>
+        <header>
+           
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <script>
+                        var day = new Date().getDay();
+                        var x;
+                        switch (day) {
+
+                            case 0:
+                                x = "星期日";
+                                break;
+                            case 1:
+                                x = "星期一";
+                                break;
+                            case 2:
+                                x = "星期二";
+                                break;
+                            case 3:
+                                x = "星期三";
+                                break;
+                            case 4:
+                                x = "星期四";
+                                break;
+                            case 5:
+                                x = "星期五";
+                                break;
+                            case 6:
+                                x = "星期六";
+                                break;
+
+                        }
+
+                        document.write("北京时间：" + new Date().toLocaleString() + "  " + x + "");
+
+                    </script>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("新闻首页", "Index", "Home")</li>
+                            <li>@Html.ActionLink("关于我们", "About", "Home")</li>
+                            <li>@Html.ActionLink("联系我们", "Contact", "Home")</li>
+                        </ul>
+                        @Html.ActionLink("国内新闻", "ShowGN", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("国际新闻", "ShowGJ", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("财经新闻", "ShowCJ", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("体育新闻", "ShowTY", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("娱乐新闻", "ShowYL", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <h5> - 青岛大学2015级微软2班 &nbsp;&nbsp;&nbsp; 客户服务热线：（0532）8888-866 &nbsp;&nbsp;&nbsp;客户服务邮箱：FFmicrosoft@@163.com</h5><br />
+                     <h5 class="h5">  CopyRight &copy; @DateTime.Now.Year XQF开发小组 网络开发  
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@Html.ActionLink("后台入口", "Index", "Login")
+                    </h5>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "关于我们";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+</hgroup>
+
+<article>
+    <h3>
+        <p>
+           技术部负责人：Gff
+        </p>
+    </h3>
+    <h3>
+        <p>
+            市场部负责人：MXX&ZQ
+        </p>
+    </h3>
+    <h3>
+        <p>
+            运维部负责人：GFF
+        </p>
+    </h3>
+</article>
+
+<aside>
+    <h3>导航栏</h3>
+    <p>
+       在此您可跳转至您想去的页面：
+    </p>
+    <ul>
+        <li>@Html.ActionLink("新闻首页", "Index", "Home")</li>
+        <li>@Html.ActionLink("关于我们", "About", "Home")</li>
+        <li>@Html.ActionLink("联系我们", "Contact", "Home")</li>
+    </ul>
+</aside>

@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "QDU新闻门户网站";
+
+
+}
+
+<link type="text/css" rel="stylesheet" href="~/Content/Css/Home.css" />
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title</h1>
+            </hgroup>
+            <nav class="Show">
+
+                @Html.ActionLink("国内新闻", "ShowGN", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("国际新闻", "ShowGJ", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("财经新闻", "ShowCJ", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("体育新闻", "ShowTY", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("娱乐新闻", "ShowYL", "Home") &nbsp;&nbsp;&nbsp;&nbsp;
+
+            </nav>
+        </div>
+    </section>
+}
+<div class="banner">
+    <div class="imageBox">
+        <ul class="title">
+            <li>
+                @Html.ActionLink("中国手机市场已进入新的下降周期…", "Shouji", "Home")
+                <img src="Images/手机.png">
+            </li>
+            <li>
+                @Html.ActionLink("《绝地求生》正式版沙漠地图惊现…", "Juedi", "Home")
+                <img src="Images/绝地.jpg">
+            </li>
+            <li>
+                @Html.ActionLink("L-15某型飞机首飞成功…", "Feiji", "Home")
+                <img src="Images/飞机.png">
+            </li>
+            <li>
+            </li>
+        </ul>
+    </div>
+</div>
+
